@@ -18,7 +18,7 @@ import com.example.sampleactivity.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     ActivityMainBinding binding;
-
+    // You can change the text = For use of the TextWatcher
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
